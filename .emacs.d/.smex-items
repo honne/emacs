@@ -1,0 +1,23 @@
+
+;; ----- smex-history -----
+(
+ cider-jack-in
+ find-library
+ global-company-mode
+ package-install
+ package-refresh-contents
+ cd
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (cider-jack-in . 23)
+ (package-refresh-contents . 1)
+ (auto-complete . 3)
+ (ac-cider-setup . 1)
+ (kill-grep . 2)
+ (package-install . 1)
+ (global-company-mode . 1)
+ (find-library . 1)
+)
